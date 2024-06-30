@@ -1,4 +1,4 @@
-apiVersion: monitoring.googleapis.com/v1
+apiVersion: monitoring.googleapis.com/v2
 kind: PodMonitoring
 metadata:
   name: airflow-statd-metrics
